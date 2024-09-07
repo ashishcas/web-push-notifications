@@ -1,10 +1,4 @@
 
-### Getting the project locally
-```sh
-git clone git@github.com:hhimanshu/web-push-notifications.git
-
-cd web-push-notifications
-```
 
 ### Installing dependencies
 The dependency for entire project can be downloaded using the following command
